@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>菜鸟的学习笔记</title>
     <link>https://shixinglei.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 菜鸟的学习笔记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Tue, 23 Jun 2020 16:51:35 +0800</lastBuildDate>
     
 	<atom:link href="https://shixinglei.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -28,6 +29,15 @@ vueblog讲解视频： https://www.bilibili.com/video/BV1PQ4y1P7hZ/
 关注我的B站，后续陆续还有
  前后端分离类百度搜索引擎项目 即时聊天等项目  等项目分享出来哈！
 更多项目请关注公众号：MarkerHub</description>
+    </item>
+    
+    <item>
+      <title>get in touch</title>
+      <link>https://shixinglei.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shixinglei.github.io/contact/</guid>
+      <description>Send</description>
     </item>
     
   </channel>
