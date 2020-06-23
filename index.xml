@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://sxlwlqwert.github.io/</link>
+    <link>https://shixinglei.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jun 2020 16:51:35 +0800</lastBuildDate>
     
-	<atom:link href="https://sxlwlqwert.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shixinglei.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://sxlwlqwert.github.io/post/blog/</link>
+      <link>https://shixinglei.github.io/post/blog/</link>
       <pubDate>Tue, 23 Jun 2020 16:51:35 +0800</pubDate>
       
-      <guid>https://sxlwlqwert.github.io/post/blog/</guid>
+      <guid>https://shixinglei.github.io/post/blog/</guid>
       <description>#一级标题#
 无序列表  1   1   1   这是一段引用代码
     项目：vueblog
