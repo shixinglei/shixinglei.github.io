@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://sxlwlqwert.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jun 2020 16:51:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://sxlwlqwert.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://sxlwlqwert.github.io/post/blog/</link>
+      <pubDate>Tue, 23 Jun 2020 16:51:35 +0800</pubDate>
+      
+      <guid>https://sxlwlqwert.github.io/post/blog/</guid>
+      <description>#一级标题#
+无序列表  1   1   1   这是一段引用代码
+    项目：vueblog
+公众号：MarkerHub
+ 介绍 一个基于SpringBoot + Vue开发的前后端分离博客项目，带有超级详细开发文档和讲解视频。还未接触过vue开发，或者前后端分离的同学，学起来哈。别忘了给vueblog一个star！感谢
+技术栈： 项目效果： 项目文档： 开发文档：https://juejin.im/post/5ecfca676fb9a04793456fb8
+vue入门视频：https://www.bilibili.com/video/BV125411W73W/
+vueblog讲解视频： https://www.bilibili.com/video/BV1PQ4y1P7hZ/
+关注我的B站，后续陆续还有
+ 前后端分离类百度搜索引擎项目 即时聊天等项目  等项目分享出来哈！
+更多项目请关注公众号：MarkerHub</description>
+    </item>
+    
+  </channel>
+</rss>
